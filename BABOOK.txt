@@ -1,0 +1,6 @@
+NO CourseCode Name Avalibility
+1 BADM151 IntrotoManage YES
+2 BADM142 PrinciOfMarket YES
+3 BADM231 BusinessStatI YES
+4 BADM132 BusinessStatII YES
+5 BADM141 MathsforManagement YES
